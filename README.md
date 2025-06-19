@@ -21,7 +21,7 @@ A simple Snake game built with Java using the Swing library.
    - snaketitle.png → game title image
 4. Ensure these images are located in the correct folder within the project.
 5. Open the project in any Java IDE like IntelliJ or Eclipse.
-6. Run the main class SnakeGame.java.
+6. Run the main class Main.java.
 ## Notes:
 - You can customize the images or window size in the source code.
 - This game is designed to be simple and beginner-friendly.
